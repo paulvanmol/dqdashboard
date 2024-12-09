@@ -1,7 +1,7 @@
 cas casauto;
 %let outcaslib=PUBLIC; 
 %let incaslib=GTPPUB; 
-%let path=/home/student/Courses/dqdashboard; 
+%let path=/gelcontent/dqdashboard; 
 
 proc cas;
 	session casauto;
